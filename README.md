@@ -145,7 +145,28 @@ process_yolo_dataset_with_contrast_universal(dataset_dir, output_dir, analyze_ex
 ```
 - Processes a YOLO dataset with contrast-based logic, possibly for data cleaning or augmentation.
 
-Visualization Tools
+### Trained models:
+```
+model_custom
+```
+- possible data leakage
+
+```
+model_custom2
+```
+- model with default parametrs & normal data (best model)
+
+```
+model_custom3
+```
+- model with default parametrs & data with augmentation
+
+```
+model_custom4
+```
+- model with adjusted parametrs & normal data
+
+### Visualization Tools
 - matplotlib and seaborn: For plotting results
 - cv2 (OpenCV): For image preprocessing
 - PIL: For image manipulation
