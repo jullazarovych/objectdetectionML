@@ -1,6 +1,8 @@
 # Project Overview
 This project uses YOLOv5 to detect whether people are wearing face masks correctly. It classifies images into three categories: with mask, without mask, and mask worn incorrectly. The model was trained on a custom dataset with annotations converted from Pascal VOC to YOLO format. It includes tools for evaluation and visualization, highlighting false positives and false negatives to better understand model performance.
-*[Presetation]([https://www.markdownguide.org](https://www.canva.com/design/DAGoXSkAYSo/XeGl1PJJznUXU5tzxXJykg/edit?utm_content=DAGoXSkAYSo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*.
+
+
+[Presetation]([https://www.markdownguide.org](https://www.canva.com/design/DAGoXSkAYSo/XeGl1PJJznUXU5tzxXJykg/edit?utm_content=DAGoXSkAYSo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*.
 
 ## Documentation
 
