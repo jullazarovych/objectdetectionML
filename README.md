@@ -118,7 +118,7 @@ get_images_with_class_from_list(model, target_class_name, image_list, image_fold
 ```
 detailed_lime_explanation(model, target_class_name, image_paths, image_size)
 ```
--Generates LIME visualizations to explain why the model classified an image as a specific class.
+- Generates LIME visualizations to explain why the model classified an image as a specific class.
 
 ```
 compare_predictions_and_explanations(model, target_class_name, image_paths)
